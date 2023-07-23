@@ -1,6 +1,6 @@
 aml# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
+name: Generate Snake 1
 
 # Controls when the action will run. This action runs every 6 hours.
 
